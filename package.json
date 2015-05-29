@@ -1,6 +1,6 @@
 {
   "name": "bedrock-consumer",
-  "version": "0.0.0",
+  "version": "0.0.1-dev",
   "description": "Bedrock Consumer",
   "main": "./lib/consumer",
   "scripts": {
