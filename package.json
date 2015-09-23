@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/digitalbazaar/bedrock-consumer",
   "dependencies": {
-    "async": "~0.9.0",
+    "async": "^1.4.2",
     "credentials-io": "digitalbazaar/credentials-io#master"
   },
   "peerDependencies": {
