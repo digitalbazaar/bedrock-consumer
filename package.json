@@ -24,10 +24,12 @@
   "homepage": "https://github.com/digitalbazaar/bedrock-consumer",
   "dependencies": {
     "async": "^1.4.2",
-    "credentials-io": "digitalbazaar/credentials-io#master"
+    "credentials-io": "digitalbazaar/credentials-io#master",
+    "lodash": "^3.10.1"
   },
   "peerDependencies": {
     "bedrock": "^1.0.0",
+    "bedrock-identity": "^1.0.0",
     "bedrock-mongodb": "^1.0.0",
     "bedrock-permission": "^1.0.0"
   },
