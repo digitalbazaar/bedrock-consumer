@@ -1,6 +1,6 @@
 {
   "name": "bedrock-consumer",
-  "version": "0.0.1-dev",
+  "version": "1.0.0",
   "description": "Bedrock Consumer",
   "main": "./lib/consumer",
   "scripts": {
@@ -23,14 +23,14 @@
   },
   "homepage": "https://github.com/digitalbazaar/bedrock-consumer",
   "dependencies": {
-    "async": "^1.4.2",
-    "credentials-io": "digitalbazaar/credentials-io#master",
-    "lodash": "^3.10.1"
+    "async": "^1.5.2",
+    "credentials-io": "~0.2.0",
+    "lodash": "^4.0.0"
   },
   "peerDependencies": {
     "bedrock": "^1.0.0",
-    "bedrock-identity": "^1.0.0",
-    "bedrock-passport": "^1.0.0"
+    "bedrock-identity": "^2.0.0",
+    "bedrock-passport": "^2.0.0"
   },
   "directories": {
     "lib": "./lib"
