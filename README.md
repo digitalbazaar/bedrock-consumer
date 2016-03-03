@@ -4,6 +4,10 @@ A [bedrock][] module that provides an interface for managing information
 for consumers of an application. This includes retrieving and caching
 credentials for consumers.
 
+## Requirements
+
+- npm v3+
+
 ## Quick Examples
 
 TODO:
