@@ -1,11 +1,11 @@
 # bedrock-consumer
 
-A [bedrock][] library that provides an interface for managing information
-for consumers of an application. It is not a comprehensive credential
-consumer application, rather it provides simpler helper methods for
-authenticating and establishing user sessions and a method to verify and
-convert a posted identity profile to an event-based API for doing something
-with its credentials.
+A [bedrock][] library that provides simpler helper methods for authenticating
+and establishing user sessions and a method to verify and convert a HTTP-posted
+identity profile to an event-based API to assist implementers of custom
+processing of credentials. It is not a comprehensive credential
+consumer application, rather it provides some basic, common capabilities for
+applications that consume credentials.
 
 This module:
 
@@ -18,8 +18,6 @@ This module:
 * Works in conjunction with [bedrock-passport][] to setup default user
   settings and permissions for non-persistent users that log into an
   application
-
-
 
 ## Requirements
 
