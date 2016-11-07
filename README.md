@@ -49,20 +49,6 @@ This module provides some express middleware:
   all event handlers have executed (or once one of them cancels and takes over
   the process), a status code of 204 will be returned to the client.
 
-## Setup
-
-```
-bower install bedrock-consumer
-```
-
-Installation of the module followed by a restart of your [bedrock][]
-application is sufficient to make the module available.
-
-<!-- ## How It Works
-
-TODO: -->
-
-
 [bedrock]: https://github.com/digitalbazaar/bedrock
 [bedrock-identity]: https://github.com/digitalbazaar/bedrock-identity
 [bedrock-passport]: https://github.com/digitalbazaar/bedrock-passport
