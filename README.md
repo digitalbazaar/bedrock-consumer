@@ -1,5 +1,7 @@
 # bedrock-consumer
 
+[![Build Status](http://ci.digitalbazaar.com/buildStatus/icon?job=bedrock-consumer)](http://ci.digitalbazaar.com/job/bedrock-consumer)
+
 A [bedrock][] library that provides simpler helper methods for authenticating
 and establishing user sessions and a method to verify and convert a HTTP-posted
 identity profile to an event-based API to assist implementers of custom
