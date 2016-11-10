@@ -26,7 +26,7 @@
   },
   "peerDependencies": {
     "bedrock": "^1.0.0",
-    "bedrock-identity": "^4.3.0",
+    "bedrock-identity": "^4.4.0",
     "bedrock-passport": "^3.0.0"
   },
   "directories": {
