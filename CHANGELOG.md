@@ -1,11 +1,19 @@
 # bedrock-consumer ChangeLog
 
+## 2.0.5 - 2016-11-10
+
+### Changed
+- Use new `generateResource` and `exists` APIs.
+
 ## 2.0.4 - 2016-08-03
 
 ### Fixed
 - Fix typo in the bedrock-passport.authenticate handler.
 
 ## 2.0.3 - 2016-04-26
+
+### Changed
+- Update dependencies.
 
 ## 2.0.2 - 2016-04-16
 
