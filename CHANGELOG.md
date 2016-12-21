@@ -1,5 +1,8 @@
 # bedrock-consumer ChangeLog
 
+### Fixed
+- Ensure identity defaults are copied before modification.
+
 ## 2.0.5 - 2016-11-10
 
 ### Changed
